@@ -1,0 +1,4 @@
+export const SET_CITY = "SET_CITY";
+export const SET_COORDINATES = "SET_COORDINATES";
+export const SET_WEATHER = "SET_WEATHER";
+export const SET_BACKGROUNDIMAGE = "SET_BACKGROUNDIMAGE";
